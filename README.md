@@ -4,9 +4,12 @@
 
 ## Official Resources
 
-- [中文指南](http://regularjs.github.io/guide/zh/index.html)
-- [中文API](http://regularjs.github.io/reference/?api-zh)
+- [:sparkles:中文指南](http://regularjs.github.io/guide/zh/index.html)
+- [:sparkles:中文API](http://regularjs.github.io/reference/?api-zh)
 
+## Development Tools
+
+- [regular-devtools](https://github.com/regularjs/regular-devtools) a chrome extension that allows real-time inspection of Regular components
 
 ## License
 
