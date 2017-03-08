@@ -4,8 +4,16 @@
 
 ## Official Resources
 
-- [:sparkles:中文指南](http://regularjs.github.io/guide/zh/index.html)
-- [:sparkles:中文API](http://regularjs.github.io/reference/?api-zh)
+- [:sparkles:中文指南](https://regularjs.github.io/guide/zh/index.html)
+- [:sparkles:中文API](https://regularjs.github.io/reference/?api-zh)
+
+## UIKit and Components
+
+- [regular-ui](https://github.com/regular-ui/regular-ui) a set of front-end components built with RegularJS
+
+## Libraries
+
+- [regular-state](https://github.com/regularjs/regular-state) SPA Framework Based on Regular and Stateman
 
 ## Development Tools
 
